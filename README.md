@@ -7,7 +7,7 @@ I performed a comprehensive analysis of the employee status within a pseudo-orga
 # Structure of Database
 ![alt text](https://github.com/vishal-verma-96/SQL_Project/blob/2c391b9221eade3f9ab66d069d997b60ef91ed61/structure.png)
 
-# Questions on Database
+# Questions
 
 - <b>Major Question 1</b></br>
 A) List the salary of all the employees.</br>
