@@ -8,11 +8,11 @@ Here, I performed a comprehensive analysis of the employee status within an orga
 # Introduction
 
 The database are related to a E-commerce companyand the Database Schemas are-
-● Employee : Stores employee details
-● Department : Stores department details of employees
-● Dept_locations : Stores department locations
-● Project : Stores details of projects employees are working on
-● Works_on : Stores working hours and other details of employees
+- Employee : Stores employee details
+- Department : Stores department details of employees
+- Dept_locations : Stores department locations
+- Project : Stores details of projects employees are working on
+- Works_on : Stores working hours and other details of employees
 
 # Structure of Database:
 
