@@ -1,13 +1,15 @@
-# SQL_Project
-I performed a comprehensive analysis of the employee status within a pseudo-organization. This process involved the following key steps:</br>
+# SQL_Project:
+
+Here,I performed a comprehensive analysis of the employee status within an organization. This process involved the following key steps:</br>
 1) <b><i>Database Creation:</b></i> Designed and structured a database to accurately represent the organizational hierarchy and employee details.</br>
 2) <b><i>Data Entry:</b></i> Entered relevant data into the respective tables, ensuring accuracy and consistency across all records.</br>
 3) <b><i>Query Execution:</b></i> Formulated and executed SQL queries to answer a series of predefined questions about the organization’s employees. These queries provided valuable insights into various aspects of the workforce, such as demographics, performance metrics, and departmental distribution.
 
-# Structure of Database
+# Structure of Database:
+
 ![alt text](https://github.com/vishal-verma-96/SQL_Project/blob/2c391b9221eade3f9ab66d069d997b60ef91ed61/structure.png)
 
-# Questions
+# The questions I wanted to answer through my SQL queries were:
 
 - <b>Major Question 1</b></br>
 A) List the salary of all the employees.</br>
@@ -22,3 +24,7 @@ B) Display all the employees who are not in ACADEMIC department.</br>
 C) Display SATYA’S project location.</br>
 D) Find the total working hours of each female employee.</br>
 E) Display the details of the people whose projects are located at SOUTH AFRICA.
+
+# Tools I Used:
+- SQL: The backbone of my analysis, allowing me to query the database and unearth critical insights.
+- MySQL: The chosen database management system, ideal for handling the job posting data.
