@@ -1,5 +1,8 @@
 # SQL_Project
-Here, I had conducted analysis on status of employees of a pseudo organisation by creating database and answering the question which were mentioned below.
+I performed a comprehensive analysis of the employee status within a pseudo-organization. This process involved the following key steps:</br>
+1) <b><i>Database Creation:</b></i> Designed and structured a database to accurately represent the organizational hierarchy and employee details.</br>
+2) <b><i>Data Entry:</b></i> Entered relevant data into the respective tables, ensuring accuracy and consistency across all records.</br>
+3) <b><i>Query Execution:</b></i> Formulated and executed SQL queries to answer a series of predefined questions about the organization’s employees. These queries provided valuable insights into various aspects of the workforce, such as demographics, performance metrics, and departmental distribution.
 
 # Structure of Database
 ![alt text](https://github.com/vishal-verma-96/SQL_Project/blob/2c391b9221eade3f9ab66d069d997b60ef91ed61/structure.png)
