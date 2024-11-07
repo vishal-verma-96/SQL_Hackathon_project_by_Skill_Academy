@@ -5,7 +5,7 @@ Here, I performed a comprehensive analysis of the employee status within an orga
 2) <b><i>Data Entry:</b></i> Entered relevant data into the respective tables, ensuring accuracy and consistency across all records.</br>
 3) <b><i>Query Execution:</b></i> Formulated and executed SQL queries to answer a series of predefined questions about the organization’s employees. These queries provided valuable insights into various aspects of the workforce, such as demographics, performance metrics, and departmental distribution.
 
-# Introduction
+# Structure of Database:
 
 The database are related to a E-commerce company and the Database Schemas are-
 - Employee : Stores employee details
@@ -13,8 +13,6 @@ The database are related to a E-commerce company and the Database Schemas are-
 - Dept_locations : Stores department locations
 - Project : Stores details of projects employees are working on
 - Works_on : Stores working hours and other details of employees
-
-# Structure of Database:
 
 ![alt text](https://github.com/vishal-verma-96/SQL_Project/blob/2c391b9221eade3f9ab66d069d997b60ef91ed61/structure.png)
 
