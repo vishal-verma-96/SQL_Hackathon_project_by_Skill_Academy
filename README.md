@@ -1,9 +1,18 @@
 # SQL_Project:
 
-Here,I performed a comprehensive analysis of the employee status within an organization. This process involved the following key steps:</br>
+Here, I performed a comprehensive analysis of the employee status within an organization. This process involved the following key steps:</br>
 1) <b><i>Database Creation:</b></i> Designed and structured a database to accurately represent the organizational hierarchy and employee details.</br>
 2) <b><i>Data Entry:</b></i> Entered relevant data into the respective tables, ensuring accuracy and consistency across all records.</br>
 3) <b><i>Query Execution:</b></i> Formulated and executed SQL queries to answer a series of predefined questions about the organization’s employees. These queries provided valuable insights into various aspects of the workforce, such as demographics, performance metrics, and departmental distribution.
+
+# Introduction
+
+The database are related to a E-commerce companyand the Database Schemas are-
+● Employee : Stores employee details
+● Department : Stores department details of employees
+● Dept_locations : Stores department locations
+● Project : Stores details of projects employees are working on
+● Works_on : Stores working hours and other details of employees
 
 # Structure of Database:
 
