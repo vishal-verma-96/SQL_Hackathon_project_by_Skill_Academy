@@ -6,16 +6,16 @@ Here, I had conducted analysis on status of employees of a pseudo organisation b
 
 # Questions on Database
 
--<b>Major Question 1</b></br>
+- <b>Major Question 1</b></br>
 A) List the salary of all the employees.</br>
 B) Display the names of all employees with any “A” at any place of the name.</br>
 C) Show all employees who were hired in the first half of the month (Before the 16th of the month).</br>
 D) Display the name of all female employees.</br>
 E) Display the employee who is paid most in the company.
 
--<b> Major Question 2</b>
-A) Display employee name, address, department no and department name.
-B) Display all the employees who are not in ACADEMIC department
-C) Display SATYA’S project location.
-D) Find the total working hours of each female employee.
+- <b> Major Question 2</b></br>
+A) Display employee name, address, department no and department name.</br>
+B) Display all the employees who are not in ACADEMIC department.</br>
+C) Display SATYA’S project location.</br>
+D) Find the total working hours of each female employee.</br>
 E) Display the details of the people whose projects are located at SOUTH AFRICA.
